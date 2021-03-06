@@ -1,4 +1,4 @@
-## MERNProject
+## MERN Project
 
 ### Backend run
 
