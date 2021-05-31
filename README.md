@@ -2,7 +2,7 @@
 
 ### Backend run
 
-To start frontend application use this commands
+To start backend application use this commands
 
 ```
 $ cd server
